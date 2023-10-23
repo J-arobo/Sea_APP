@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365365506775",
+    "project_id": "sea-app-fa596",
+    "storage_bucket": "sea-app-fa596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365365506775:android:98b3d4521b6ca0600ff692",
+        "android_client_info": {
+          "package_name": "com.example.seaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMoK7a0FTMUJx4vymKXjmpazIl4fLQfP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
